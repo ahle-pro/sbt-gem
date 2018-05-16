@@ -3,6 +3,12 @@ A tool for analysing and measuring the data from cognitive test, used for improv
 
 
 
+## Features
+* Recommendation
+* Visualisation
+
+
+
 
 
 
